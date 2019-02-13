@@ -1,6 +1,6 @@
-*Team CGKM
+# Team CGKM
 
-**Team Members
+## Team Members
 - Matthew Chastain
 - Justin Grabowski
 - Kevin Kelly
